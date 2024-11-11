@@ -1,4 +1,4 @@
-### A Inércia das Forças Armadas e do Ministério Público Federal diante do Extravio de Equipamento Militar em Atividades Criminosas
+# A Inércia das Forças Armadas e do Ministério Público Federal diante do Extravio de Equipamento Militar em Atividades Criminosas
 
 O **extravio e posse** de **equipamentos militares** de uso exclusivo das **Forças Armadas do Brasil** por facções criminosas, que os utilizam para cometer **crimes terroristas** e **violações de direitos humanos em massa**, constitui uma grave falha no cumprimento das responsabilidades constitucionais dessas instituições. Em um cenário em que os **suspeitos estão em flagrante** e atendem a todos os requisitos legais para a decretação da **prisão preventiva**, a inércia tanto das **Forças Armadas** quanto do **Ministério Público Federal (MPF)** gera uma situação de impunidade, colocando em risco a **ordem pública**, a **segurança nacional** e os direitos fundamentais dos cidadãos.
 
