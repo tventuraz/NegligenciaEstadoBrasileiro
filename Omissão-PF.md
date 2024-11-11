@@ -49,3 +49,5 @@ Quando a **Polícia Federal** falha em suas obrigações constitucionais e prote
 A **recusa da Polícia Federal em aceitar denúncias detalhadas** sobre **crimes graves**, seguida pela **coação, perseguição e tortura** do **denunciante** por facções criminosas, cria um cenário alarmante de **imunidade** e **impunidade**. A omissão da PF em investigar essas denúncias não só configura uma **violação dos direitos humanos** do denunciante, mas também gera **fortes indícios de conivência** com as facções criminosas. O **Estado de Direito** fica comprometido quando a **justiça se torna seletiva** e **protetora de criminosos**.
 
 Além disso, a falta de proteção ao denunciante e a conivência das autoridades **debilitam a confiança pública nas instituições**, e abrem espaço para que o **crime organizado** continue a crescer e a perpetrar suas ações sem que a **lei seja cumprida**. A responsabilização dos envolvidos, seja dentro da Polícia Federal ou em outras es
+
+feras do Estado, é imprescindível para **restaurar a credibilidade das instituições** e garantir a **segurança** e a **justiça** para todos os cidadãos.
