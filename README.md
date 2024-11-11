@@ -28,6 +28,14 @@ O presente relatório tem como objetivo analisar a crescente autocensura da impr
 
 Este relatório examina o efeito negativo da autocensura no processo de denúncia de abusos, destacando como a omissão de informações sensíveis enfraquece a capacidade da sociedade de identificar, questionar e responsabilizar as autoridades envolvidas em práticas criminosas. Além disso, explora como a falta de divulgação de denúncias e a desqualificação do comunicante contribuem para a normalização da impunidade e fortalecem as práticas criminosas de violação de direitos humanos.
 
+## 📌 5) Omissão do Estado na Regulação e Fiscalização de Equipamentos de Espionagem e Divulgação de Materiais de Invasão de Privacidade
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/OmissaoEstadoEspionagem.md)
+
+O avanço tecnológico e a crescente acessibilidade a dispositivos de vigilância e espionagem, como boroscópios, microcâmeras e câmeras ocultas, têm colocado em risco a privacidade de cidadãos em todo o mundo. No Brasil, a falta de regulação e fiscalização eficiente por parte do Estado — incluindo a Polícia Federal, as Forças Armadas e o Ministério Público Federal — tem contribuído para um cenário de impunidade e descaso, permitindo que a fabricação, o comércio e a importação desses equipamentos ocorram de forma desenfreada. Consequentemente, a invasão de privacidade tem se tornado uma prática cada vez mais comum, com o uso de dispositivos de espionagem não apenas em contextos individuais, mas também em grandes escalas, principalmente em centros urbanos densamente povoados.
+
+Este relatório busca detalhar as omissões e falhas do Estado em regular e fiscalizar a fabricação e o comércio desses dispositivos, além de discutir a relação entre essa falha de regulação e o incentivo à prática de invasões de privacidade em massa. A responsabilidade pela omissão das autoridades em tolerar tais práticas recai diretamente sobre a falta de uma ação coordenada e efetiva para combater o uso ilícito de tecnologias de vigilância.
+
 ## MIT License
 
 ```
