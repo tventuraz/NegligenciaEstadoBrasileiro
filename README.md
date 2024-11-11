@@ -1,4 +1,4 @@
-# Negligencia e Omissão do Estado Brasileiro
+# Negligência e Omissão do Estado Brasileiro Diante de Facção Criminosa
 
 ## 📌 1) A Omissão da Polícia Federal e Suas Consequências: Coação, Perseguição e Tortura ao Denunciante
 
