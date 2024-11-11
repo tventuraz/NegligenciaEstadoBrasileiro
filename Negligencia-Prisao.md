@@ -1,4 +1,4 @@
-### A Responsabilidade do Ministério Público Federal na Omissão do Pedido de Prisão Preventiva
+# A Responsabilidade do Ministério Público Federal na Omissão do Pedido de Prisão Preventiva
 
 O **Ministério Público Federal (MPF)**, como órgão independente e imparcial, tem o dever de **zelar pela ordem jurídica** e pela **defesa da ordem pública**, conforme disposto no **artigo 127 da Constituição Federal de 1988**. Esse artigo estabelece que o MP é incumbido da **defesa da ordem jurídica** e dos **interesses sociais**, incluindo a **tutela dos direitos fundamentais** e a **apuração de crimes**. Além disso, o **artigo 129 da Constituição** estabelece as funções institucionais do Ministério Público, dentre as quais se destaca a **promoção da ação penal pública** e o **exercício do controle externo da atividade policial**.
 
