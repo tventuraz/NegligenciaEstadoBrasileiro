@@ -20,6 +20,14 @@ O Ministério Público Federal (MPF), como órgão independente e imparcial, tem
 
 No contexto de uma investigação criminal, o MPF pode solicitar medidas cautelares, como a prisão preventiva, se verificar que os requisitos legais para sua decretação estão presentes, conforme o artigo 312 do Código de Processo Penal (CPP). A prisão preventiva é uma medida cautelar que visa garantir a ordem pública, a instrução criminal e a aplicação da lei penal, sendo uma ferramenta essencial para a efetividade da justiça.
 
+## 📌 4) Impacto da Autocensura da Imprensa na Liberdade de Expressão, na Dignidade Humana e nas Violações de Direitos Humanos
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/AutocensuraImprensa.md)
+
+O presente relatório tem como objetivo analisar a crescente autocensura da imprensa no Brasil, especialmente em contextos em que a alegação de segurança nacional ou segredo de Estado é utilizada para justificar a omissão de informações sobre violação de direitos humanos e abusos de poder por parte do Estado. A autocensura da imprensa, ao ser imposta voluntariamente, sem a necessidade de uma ordem judicial ou censura formal, representa uma ameaça não apenas à liberdade de imprensa, mas também à dignidade humana, à transparência pública e à própria credibilidade das denúncias de vítimas e informantes.
+
+Este relatório examina o efeito negativo da autocensura no processo de denúncia de abusos, destacando como a omissão de informações sensíveis enfraquece a capacidade da sociedade de identificar, questionar e responsabilizar as autoridades envolvidas em práticas criminosas. Além disso, explora como a falta de divulgação de denúncias e a desqualificação do comunicante contribuem para a normalização da impunidade e fortalecem as práticas criminosas de violação de direitos humanos.
+
 ## MIT License
 
 ```
