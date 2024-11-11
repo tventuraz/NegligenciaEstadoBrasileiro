@@ -1,4 +1,4 @@
-### A Omissão da Polícia Federal e Suas Consequências: Coação, Perseguição e Tortura ao Denunciante
+# A Omissão da Polícia Federal e Suas Consequências: Coação, Perseguição e Tortura ao Denunciante
 
 Quando a **Polícia Federal (PF)** se omite ou se recusa a investigar **denúncias detalhadas** sobre **crimes graves**, como **violação de direitos humanos**, **extravio e posse de equipamentos militares**, **pedofilia**, **tortura**, **sabotagem de órgãos públicos federais** e **espionagem**, e essa omissão resulta na **coação**, **perseguição** e **tortura** do próprio **denunciante**, a gravidade da situação é multiplicada, não apenas pela falha em cumprir com suas funções, mas também pela **potencial conivência** com os **criminosos envolvidos**. Essa recusa da PF em investigar os crimes não apenas agrava a impunidade, mas também coloca em risco a integridade do cidadão que teve a coragem de denunciar, transformando-o em vítima duplamente: tanto do crime que denunciou quanto da omissão das autoridades que deveriam proteger seus direitos.
 
