@@ -36,6 +36,12 @@ O avanço tecnológico e a crescente acessibilidade a dispositivos de vigilânci
 
 Este relatório busca detalhar as omissões e falhas do Estado em regular e fiscalizar a fabricação e o comércio desses dispositivos, além de discutir a relação entre essa falha de regulação e o incentivo à prática de invasões de privacidade em massa. A responsabilidade pela omissão das autoridades em tolerar tais práticas recai diretamente sobre a falta de uma ação coordenada e efetiva para combater o uso ilícito de tecnologias de vigilância.
 
+## 📌 6) A Utilização de Boroscópios como Equipamentos de Espionagem e Invasão de Privacidade: Desafios Regulatórios, Criminosos e Sociais no Brasil
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/NegligenciaBoroscopios.md)
+
+A crescente utilização de boroscópios como dispositivos de espionagem e invasão de privacidade em centros urbanos no Brasil tem gerado sérias implicações para a segurança pessoal, a privacidade dos cidadãos e para o sistema jurídico. Originalmente concebidos para inspeção industrial, esses dispositivos estão sendo cada vez mais usados para captura clandestina de imagens e vídeos em ambientes privados. A comercialização indiscriminada de boroscópios modificados para fins de vigilância e espionagem em plataformas de e-commerce e a falta de uma regulação eficiente por parte das autoridades brasileiras, incluindo as Forças Armadas, têm permitido a proliferação de facções criminosas especializadas na compra, venda e distribuição de material videográfico ilegal. Este artigo examina os impactos dessa prática, com foco na falta de controle governamental e no papel das Forças Armadas na regulação de equipamentos de vigilância no Brasil, e propõe soluções para mitigar os riscos associados à invasão de privacidade em larga escala.
+
 ## MIT License
 
 ```
