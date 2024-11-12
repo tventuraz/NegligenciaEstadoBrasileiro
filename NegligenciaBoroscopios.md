@@ -56,9 +56,7 @@ A **falta de um sistema de regulação** eficiente e a **inadequada fiscalizaç�
 
 No Brasil, as **Forças Armadas** têm um papel central na **regulação e fiscalização** de equipamentos que podem ser utilizados para espionagem, como os **boroscópios**, dado que eles podem ser considerados dispositivos **sensíveis** sob o ponto de vista da **segurança nacional** e da **proteção de dados**. A **Anatel**, embora regule tecnologias de telecomunicações, não tem jurisdição direta sobre a comercialização de dispositivos como boroscópios que são usados para **monitoramento visual**.
 
-O problema surge quando essas tecnologias de vigilância são **comercializadas livremente**, sem que
-
- o **governo federal** ou as **Forças Armadas** imponham restrições claras sobre sua fabricação e importação. A responsabilidade das **Forças Armadas** deveria ser reforçada, criando um **sistema de controle** e **licenciamento obrigatório** para equipamentos de vigilância que possuam câmeras de alta definição e funções de monitoramento remoto, a fim de prevenir seu uso para **atividades criminosas** de invasão de privacidade.
+O problema surge quando essas tecnologias de vigilância são **comercializadas livremente**, sem que o **governo federal** ou as **Forças Armadas** imponham restrições claras sobre sua fabricação e importação. A responsabilidade das **Forças Armadas** deveria ser reforçada, criando um **sistema de controle** e **licenciamento obrigatório** para equipamentos de vigilância que possuam câmeras de alta definição e funções de monitoramento remoto, a fim de prevenir seu uso para **atividades criminosas** de invasão de privacidade.
 
 ## 3. Propostas de Ação Regulatória e de Fiscalização
 
