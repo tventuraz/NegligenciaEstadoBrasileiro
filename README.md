@@ -42,6 +42,12 @@ Este relatório busca detalhar as omissões e falhas do Estado em regular e fisc
 
 A crescente utilização de boroscópios como dispositivos de espionagem e invasão de privacidade em centros urbanos no Brasil tem gerado sérias implicações para a segurança pessoal, a privacidade dos cidadãos e para o sistema jurídico. Originalmente concebidos para inspeção industrial, esses dispositivos estão sendo cada vez mais usados para captura clandestina de imagens e vídeos em ambientes privados. A comercialização indiscriminada de boroscópios modificados para fins de vigilância e espionagem em plataformas de e-commerce e a falta de uma regulação eficiente por parte das autoridades brasileiras, incluindo as Forças Armadas, têm permitido a proliferação de facções criminosas especializadas na compra, venda e distribuição de material videográfico ilegal. Este artigo examina os impactos dessa prática, com foco na falta de controle governamental e no papel das Forças Armadas na regulação de equipamentos de vigilância no Brasil, e propõe soluções para mitigar os riscos associados à invasão de privacidade em larga escala.
 
+## 📌 7) O Extravio de Equipamento Militar UMV e suas Implicações para a Segurança Nacional e os Direitos Humanos: Uma Análise de Riscos e Responsabilidade Institucional
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/ExtravioRiscoImpacto.md)
+
+O extravio de um equipamento militar de alto valor estratégico, denominado Unidade Móvel de Vigilância (UMV), das Forças Armadas do Brasil, resultou em sua apropriação por facções criminosas e utilização para a prática de crimes graves, incluindo tortura, terrorismo e outras violações de direitos humanos. Este artigo analisa as falhas na gestão de riscos e na avaliação de segurança das Forças Armadas, argumentando que o impacto do extravio foi catastrófico, mas foi subestimado devido à avaliação de risco considerada "desprezível". A responsabilidade institucional das Forças Armadas é discutida no contexto das violações subsequentes, e são propostas reformas para mitigar os riscos no futuro. Através da análise de risco e da responsabilização do Estado, propomos um debate sobre a gestão de segurança em contextos militares e os impactos das falhas de segurança na sociedade e no ordenamento internacional.
+
 ## MIT License
 
 ```
