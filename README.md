@@ -54,6 +54,12 @@ O extravio de um equipamento militar de alto valor estratégico, denominado Unid
 
 Este estudo analisa um incidente de segurança envolvendo o extravio de um equipamento militar de vigilância e monitoramento, cuja falha de implementação resultou na divulgação não autorizada de dados sensíveis — incluindo invasão de privacidade e espionagem industrial — na plataforma pública de videoconferência Jitsi Meet. A análise destaca as falhas de isolamento de rede e o erro de integração inadequada com plataformas civis, bem como a responsabilidade das Forças Armadas do Brasil pelo extravio e falha no design do equipamento. Este incidente evidencia as graves consequências de falhas de segurança e gerenciamento em sistemas sensíveis, com impactos tanto na segurança nacional quanto na proteção de dados pessoais e comerciais. A proposta final do estudo inclui ações corretivas imediatas e sugestões de aprimoramento nas práticas de segurança cibernética.
 
+## 📌 9) O Paradigma de Ocultar um Segredo de Estado em Face de Graves Violações de Direitos Humanos em Massa: O Caso de Facções Criminosas e a Revelação Parcial de Equipamento Militar Sensível
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/SegredoDeEstado.md)
+
+Este artigo examina o dilema ético, estratégico e político enfrentado por governos que, em contextos de graves violações de direitos humanos em massa, se deparam com a difícil decisão de ocultar ou revelar segredos de estado. O estudo foca em um cenário onde uma facção criminosa, após obter posse de equipamento militar confidencial, revela parcialmente um segredo de estado, criando um paradoxo moral e político para o governo. A análise considera que a revelação do segredo de estado seria a única maneira de informar a população sobre os abusos em curso e conscientizar sobre a gravidade da situação, questionando os impactos da divulgação para a segurança nacional e a proteção dos direitos humanos.
+
 ## MIT License
 
 ```
