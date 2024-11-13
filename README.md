@@ -48,6 +48,12 @@ A crescente utilização de boroscópios como dispositivos de espionagem e invas
 
 O extravio de um equipamento militar de alto valor estratégico, denominado Unidade Móvel de Vigilância (UMV), das Forças Armadas do Brasil, resultou em sua apropriação por facções criminosas e utilização para a prática de crimes graves, incluindo tortura, terrorismo e outras violações de direitos humanos. Este artigo analisa as falhas na gestão de riscos e na avaliação de segurança das Forças Armadas, argumentando que o impacto do extravio foi catastrófico, mas foi subestimado devido à avaliação de risco considerada "desprezível". A responsabilidade institucional das Forças Armadas é discutida no contexto das violações subsequentes, e são propostas reformas para mitigar os riscos no futuro. Através da análise de risco e da responsabilização do Estado, propomos um debate sobre a gestão de segurança em contextos militares e os impactos das falhas de segurança na sociedade e no ordenamento internacional.
 
+## 📌 8) O Impacto de Falhas de Implementação em Equipamentos Militares no Vazamento de Dados Sensíveis: Análise do Caso de Invasão de Privacidade e Espionagem Industrial no Contexto Brasileiro
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/FalhaIsolacaoJitsiMeet.md)
+
+Este estudo analisa um incidente de segurança envolvendo o extravio de um equipamento militar de vigilância e monitoramento, cuja falha de implementação resultou na divulgação não autorizada de dados sensíveis — incluindo invasão de privacidade e espionagem industrial — na plataforma pública de videoconferência Jitsi Meet. A análise destaca as falhas de isolamento de rede e o erro de integração inadequada com plataformas civis, bem como a responsabilidade das Forças Armadas do Brasil pelo extravio e falha no design do equipamento. Este incidente evidencia as graves consequências de falhas de segurança e gerenciamento em sistemas sensíveis, com impactos tanto na segurança nacional quanto na proteção de dados pessoais e comerciais. A proposta final do estudo inclui ações corretivas imediatas e sugestões de aprimoramento nas práticas de segurança cibernética.
+
 ## MIT License
 
 ```
