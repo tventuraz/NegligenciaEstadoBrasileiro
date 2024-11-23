@@ -54,7 +54,7 @@ As falhas de design descritas indicam **negligência** no desenvolvimento e **ma
 
 #### **4.2 Responsabilidade pelo Extravio**
 
-O **extravio do equipamento**, seja por **erro humano** ou **fraude interna**, levanta sérias questões sobre a **responsabilidade** das forças armadas. As forças armadas devem garantir que dispositivos de tamanha importância tenham **mecanismos de controle** e **protocólos de recuperação** eficazes. A **falta de proteção** em torno do equipamento, como a **incapacidade de desativá-lo remotamente**, é um reflexo de uma gestão **ineficiente** e **negligente** da segurança desses sistemas (Schneier, 2008).
+O **extravio do equipamento**, seja por **erro humano** ou **fraude interna**, levanta sérias questões sobre a **responsabilidade** das forças armadas. As forças armadas devem garantir que dispositivos de tamanha importância tenham **mecanismos de controle** e **protocolos de recuperação** eficazes. A **falta de proteção** em torno do equipamento, como a **incapacidade de desativá-lo remotamente**, é um reflexo de uma gestão **ineficiente** e **negligente** da segurança desses sistemas (Schneier, 2008).
 
 #### **4.3 Responsabilidade Jurídica e Moral**
 
