@@ -63,7 +63,7 @@ Este artigo examina o dilema ético, estratégico e político enfrentado por gov
 
 ## 📌 10) Vulnerabilidades em Equipamentos Militares: Implicações de Segurança e Responsabilidade das Forças Armadas no Contexto de Extravio e Uso Indevido
 
-[_texto_completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/UMV-FalhaDesign.md)
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/UMV-FalhaDesign.md)
 
 Este artigo analisa as vulnerabilidades de um equipamento militar informático avançado, com foco em falhas de design, ausência de autenticação biométrica, falta de verificação dupla e o risco de seu uso indevido em mãos erradas. Através de uma avaliação crítica da tecnologia em questão, o estudo explora os possíveis danos à sociedade que podem ocorrer devido ao uso indevido do equipamento por facções criminosas e responsabiliza as forças armadas pela negligência na sua proteção e operação. Argumenta-se que as forças armadas têm a responsabilidade de corrigir as falhas e garantir que tal equipamento não seja utilizado para prejudicar a população ou comprometer a segurança nacional.
 
