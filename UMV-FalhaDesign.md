@@ -1,4 +1,4 @@
-### **Título: Vulnerabilidades em Equipamentos Militares: Implicações de Segurança e Responsabilidade das Forças Armadas no Contexto de Extravio e Uso Indevido**
+### **Vulnerabilidades em Equipamentos Militares: Implicações de Segurança e Responsabilidade das Forças Armadas no Contexto de Extravio e Uso Indevido**
 
 _por Tiago Ventura [2024-11-23]_
 
