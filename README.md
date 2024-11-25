@@ -73,6 +73,12 @@ Este artigo analisa as vulnerabilidades de um equipamento militar informático a
 
 A invasão de privacidade é um ato profundamente prejudicial que pode desencadear uma série de reações emocionais e sociais nas vítimas, especialmente quando essa violação é perpetrada por pessoas próximas, como vizinhos. Este estudo investiga o risco de linchamento público como uma possível reação à descoberta de uma invasão de privacidade de longo prazo e sistemática, com foco no contexto de vizinhos que cometem abusos contra suas vítimas. A pesquisa examina os fatores psicológicos, sociais e legais envolvidos, analisando as consequências dessa violência coletiva e propondo estratégias de prevenção e intervenção. A partir de uma revisão da literatura, estudos de caso e teorias sobre comportamento social e violência coletiva, o estudo discute como a violação de privacidade pode gerar uma escalada de raiva e vingança, levando a ações impulsivas de linchamento, e as implicações jurídicas dessa violência extrajudicial.
 
+## 📌 12) A Reação da Vítima de Invasão de Privacidade: Culpabilidade e Dano Psicológico nas Respostas Impulsivas
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/ReacaoVitimaCulpabilidade.md)
+
+A invasão de privacidade, quando prolongada, pode causar sérios danos psicológicos às vítimas, levando-as a reações emocionais e comportamentais intensas. Este estudo foca na culpabilidade da vítima frente a essas reações impulsivas, como o linchamento público, após a violação sistemática de sua privacidade. O trabalho investiga as condições psicológicas que podem afetar o discernimento da vítima e questiona a sua responsabilidade diante do dano psicológico causado pela invasão. O estudo propõe uma reflexão sobre a culpabilidade da vítima no contexto do trauma psicológico e discute as implicações legais e psicológicas dessa reação.
+
 ## MIT License
 
 ```
