@@ -67,6 +67,12 @@ Este artigo examina o dilema ético, estratégico e político enfrentado por gov
 
 Este artigo analisa as vulnerabilidades de um equipamento militar informático avançado, com foco em falhas de design, ausência de autenticação biométrica, falta de verificação dupla e o risco de seu uso indevido em mãos erradas. Através de uma avaliação crítica da tecnologia em questão, o estudo explora os possíveis danos à sociedade que podem ocorrer devido ao uso indevido do equipamento por facções criminosas e responsabiliza as forças armadas pela negligência na sua proteção e operação. Argumenta-se que as forças armadas têm a responsabilidade de corrigir as falhas e garantir que tal equipamento não seja utilizado para prejudicar a população ou comprometer a segurança nacional.
 
+## 📌 11) O Risco de Linchamento Público como Consequência da Invasão de Privacidade: O Caso dos Vizinhos como Agressores
+
+[_texto completo_](https://github.com/tventuraz/NegligenciaEstadoBrasileiro/blob/main/LinchamentoPublico.md)
+
+A invasão de privacidade é um ato profundamente prejudicial que pode desencadear uma série de reações emocionais e sociais nas vítimas, especialmente quando essa violação é perpetrada por pessoas próximas, como vizinhos. Este estudo investiga o risco de linchamento público como uma possível reação à descoberta de uma invasão de privacidade de longo prazo e sistemática, com foco no contexto de vizinhos que cometem abusos contra suas vítimas. A pesquisa examina os fatores psicológicos, sociais e legais envolvidos, analisando as consequências dessa violência coletiva e propondo estratégias de prevenção e intervenção. A partir de uma revisão da literatura, estudos de caso e teorias sobre comportamento social e violência coletiva, o estudo discute como a violação de privacidade pode gerar uma escalada de raiva e vingança, levando a ações impulsivas de linchamento, e as implicações jurídicas dessa violência extrajudicial.
+
 ## MIT License
 
 ```
